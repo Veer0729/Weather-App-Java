@@ -1,7 +1,10 @@
 # Weather App 🌦️
 A Java-based application that provides users with real-time weather information for a specified location. This app fetches weather data from an external API and displays it in a graphical user interface (GUI). Users can enter a location, and the app retrieves and presents details such as temperature, weather condition, humidity, and wind speed.
 
-![image alt](https://github.com/Veer0729/Weather-App-Java/blob/0a841245df9e70f7ecb520d76e51b525d0f31ecc/Weather%20App%20SS.png)
+<p align="center">
+  <img src="https://github.com/Veer0729/Weather-App-Java/blob/0a841245df9e70f7ecb520d76e51b525d0f31ecc/Weather%20App%20SS.png" alt="Weather App Screenshot" />
+</p>
+
 
 # Project Structure
 1. Main.java:
