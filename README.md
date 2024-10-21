@@ -8,3 +8,10 @@ The main entry point of the application, setting up the GUI and initializing com
 A class responsible for fetching and processing weather data from an external API.
 3. AppLauncher.java:
 Launches the application by creating an instance of Main and setting it to be visible.
+
+Technologies Used
+1. Java: Core language used for building the application.
+2. Swing: Java's GUI toolkit used to create the graphical interface.
+3. JSON-Simple: For parsing weather data in JSON format from the API response.
+4. ImageIO: For handling and displaying images (icons) related to weather conditions.
+
